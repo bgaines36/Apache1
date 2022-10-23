@@ -1,4 +1,4 @@
-<h1>This project is demonstrating how to use a docker container to start a apache server.</h1>
+<h1>This project demonstrates how to use a docker container to start a apache server.</h1>
 
 <p>If you want to use docker you will need to download docker desktop and pull the image from docker hub.</p>
 
